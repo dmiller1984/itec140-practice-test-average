@@ -26,6 +26,8 @@ try {
 using System.Windows.Forms;
 using TestAveragePractice;
 
+namespace StarterSmoke;
+
 internal static class Program
 {
     [STAThread]
