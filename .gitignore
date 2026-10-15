@@ -1,0 +1,23 @@
+# Visual Studio user settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build and test results
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Operating system files
+.DS_Store
+Thumbs.db
